@@ -1,0 +1,6 @@
+## Interface: 11303
+## Title: ClassicBagSearch |cffbebebeby Jayrgo|r
+## Author: Jayrgo
+## Version: @project-version@
+
+ClassicBagSearch.lua
